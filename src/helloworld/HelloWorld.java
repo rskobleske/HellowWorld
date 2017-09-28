@@ -19,8 +19,8 @@ public class HelloWorld {
         hiFriends("Bilbo");
     }
     
-    public static void hiFriends(String a){
-        System.out.println("Welcome to the shire " + a);
+    public static void hiFriends(String s){
+        System.out.println("Welcome to the shire " + s);
     }
     
     
